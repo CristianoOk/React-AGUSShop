@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Agustín Ortiz",
+        "contraseña": "4442",
+        "puesto": "Sistemas"
+    },
+    {
+        "id": 2,
+        "nombre": "Ag",
+        "contraseña": "4443",
+        "puesto": "Sistemas"
+    }
+]
